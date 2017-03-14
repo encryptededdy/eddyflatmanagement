@@ -6,3 +6,5 @@
 
 ## License
 A modified copy of bootstrap.css is included. This is licensed under the same MIT license as eddyflatmanagement.
+
+![screenshot](http://i.imgur.com/pMxAGJS.png)
